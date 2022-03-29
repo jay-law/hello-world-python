@@ -79,3 +79,9 @@ $ python3 main.py
 hello python
 
 ```
+
+# Tagging
+
+```bash
+$ git tag -a 
+```
