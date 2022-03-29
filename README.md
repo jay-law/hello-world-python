@@ -83,5 +83,11 @@ hello python
 # Tagging
 
 ```bash
-$ git tag -a 
+# add tag
+$ git tag -a 1.0.3 -m 'Version 1.0.3'
+
+# remove tag
+$ git tag -d 1.0.2
+
+
 ```
